@@ -629,6 +629,10 @@ _Bash is the [Unix](https://www.google.com/search?q=What+is+UNIX+explain%3F&clie
 <td class="tg-yw4l">Used to retrieve information or statistics form components of the system such as network connections, IO devices, or CPU, etc.</td>
 </tr>
 <tr>
+<td class="tg-yw4l">dpkg</td>
+<td class="tg-yw4l">A medium-level tool to install, build, remove and manage Debian packages.</td>
+</tr>
+<tr>
 <td class="tg-yw4l">dstat</td>
 <td class="tg-yw4l">Check and repair MS-DOS file systems.</td>
 </tr>
