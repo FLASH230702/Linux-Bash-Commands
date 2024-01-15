@@ -948,6 +948,10 @@ _Bash is the [Unix](https://www.google.com/search?q=What+is+UNIX+explain%3F&clie
 <td class="tg-yw4l">A utility to debug programs and know about where it crashes.</td>
 </tr>
 <tr>
+<td class="tg-yw4l">gedit</td>
+<td class="tg-yw4l">A text editor designed for the GNOME desktop environment.</td>
+</tr>
+<tr>
 <td class="tg-yw4l">getent</td>
 <td class="tg-yw4l">Shows entries from Name Service Switch Libraries for specified keys.</td>
 </tr>
@@ -1777,6 +1781,10 @@ _Bash is the [Unix](https://www.google.com/search?q=What+is+UNIX+explain%3F&clie
 <tr>
 <td class="tg-yw4l">nameif</td>
 <td class="tg-yw4l">Name network interfaces based on MAC addresses.</td>
+</tr>
+<tr>
+<td class="tg-yw4l">nano</td>
+<td class="tg-yw4l">A simple text editor.</td>
 </tr>
 <tr>
 <td class="tg-yw4l">nc</td>
